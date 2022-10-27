@@ -102,7 +102,7 @@ but one project is excluded from hackoctoberfest event then your pull request wi
 then you have remaining 3 valid pull requests if these projects is not excluded.
 If you fail to make 4 pull requests then you can't get swags or t-shirts.
 I will recommend you to make pull request to your own repo which is very very safest side for you..
-keep in mind that repo has hacktoberfest topic..
+keep in mind that repo has the tag hacktoberfest in topic..
 '''
 ```
 
